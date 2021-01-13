@@ -1,0 +1,1 @@
+void main() { int answer = 6 * 7; }
